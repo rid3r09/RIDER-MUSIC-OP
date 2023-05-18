@@ -1,59 +1,134 @@
-<img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
+### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
-# Yukki Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+<!--
 
-[Yukki Music Bot](https://github.com/TeamYukki/YukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+**THE-KNIGHT-RIDER/THE-KNIGHT-RIDER-OP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-* Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
-* Written from scratch, making it stable and less crashes with attractive thumbnails.
-* Loop, Seek, Shuffle, Specific Skip, Playlists etc support
-* Multi-Language support
+<p align="center">
 
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
 
-# ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
+ -->    <img align="middle" src="https://profile-counter.glitch.me/THE-KNIGHT-RIDER/count.svg" />
 
-> The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
-
-## ⚠️ Heroku / Okteto / Railway
-
-We have temporarily disabled the deployment for  all these cloud service platforms due to security and ban issues. We don't want innocent users who sign up there to be banned from the platform as a result of this deployment. [Read More](https://t.me/TheYukki/2541)
-
-## 🖇 Generating Pyrogram String Session
-
-<p>
-<a href="https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
-<a href="https://t.me/YukkiStringBot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 </p>
 
-## 🖇 VPS Deployment
+<h2 align="center">
 
-Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
+    ─「 𝗥𝗜𝗗𝗘𝗥 𝗠𝗨𝗦𝗜𝗖 」─
 
+★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 
-# 🏷 Support / Assistance
+</h2>
 
-Reach out to the maintainer at one of the following places:
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗞𝗡𝗜𝗚𝗛𝗧+𝗥𝗜𝗗𝗘𝗥🎭">
 
-- [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
-- [Telegram Support](https://t.me/YukkiSupport)
+<p align="center">
 
-If you want to say **thank you** or/and support active development of YukkiMusicBot:
+  <img src="https://graph.org/file/b5fb1eb295fb40643fda6.jpg">
 
-- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
-- Fork the Repo :)
-- Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
+</p>
 
-Together, we can make **YukkiMusicBot** better!
-# 📑 Acknowledgement / Credits
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗥𝗜𝗗𝗘𝗥🍷𝗠𝗨𝗦𝗜𝗖🍷𝗕𝗢𝗧⏤͟͟͞❥͜͡𝄟⃟🥀](https://t.me/RIDER_MUSIC_bot)**
 
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗙𝗜𝗥𝗦𝗧𝗟𝗬⚠️">
 
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [CallsMusic Team](https://github.com/Callsmusic)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
-- [Charon Baglari](https://github.com/XCBv021)
+<h3 align="center">
 
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 
-Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
+<h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
+
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/RID3R09/RIDER-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+<h2 align="center">
+
+🔴「 𝗜𝗙 𝗔𝗡𝗬 𝗘𝗥𝗥𝗢𝗥 𝗧𝗛𝗘𝗡 𝗦𝗘𝗡𝗗 𝗦𝗦 𝗧𝗢 𝗗𝗠 」🔴
+
+<p align="center">
+
+<a href="https://telegram.me/XO_TERA_BAAP_ON_FIRE"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐊𝐍𝐈𝐆𝐇𝐓 𝐑𝐈𝐃𝐄𝐑%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+</p>
+
+<h3 align="center">
+
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
+
+</h3>
+
+- Get your [Necessary Variables](https://github.com/rid309/RIDER-MUSIC/blob/master/sample.env)
+
+- Upgrade and Update by :
+
+`sudo apt-get update && sudo apt-get upgrade -y`
+
+- Install Ffmpeg by :
+
+`sudo apt-get install python3-pip ffmpeg -y`
+
+- Install required packages by :
+
+`sudo apt-get install python3-pip -y`
+
+- Install pip by :
+
+`sudo pip3 install -U pip`
+
+- Install Node js by :
+
+`curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
+
+- Clone the repository by :
+
+`git clone https://github.com/rid3r09/RIDER-MUSIC && cd RIDER-MUSIC`
+
+- Install requirements by :
+
+`pip3 install -U -r requirements.txt`
+
+- Fill your variables in the env by :
+
+`vi sample.env`<br>
+
+Press `I` on the keyboard for editing env<br>
+
+Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
+
+- Rename the env file by :
+
+`mv sample.env .env`
+
+- Install tmux to keep running your bot when you close the terminal by :
+
+`sudo apt install tmux && tmux`
+
+- Finally run the bot by :
+
+`bash start`
+
+- For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
+
+━━━━━━━━━━━━━━━━━━━━
+
+<h3 align="center">
+
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+
+</h3>
+
+<p align="center">
+
+<a href="https://telegram.me/DOSTO_KI_M3HFIL"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+</p>
+
+<p align="center">
+
+<a href="https://telegram.me/rider_music_support"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+</p>
+
+>
+
